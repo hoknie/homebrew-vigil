@@ -1,9 +1,9 @@
 class Vigil < Formula
   desc "Host protection agent that turns changes on a host into findings"
   homepage "https://github.com/hoknie/vigil"
-  url "https://github.com/hoknie/vigil/releases/download/v1.2.0/vigil_1.2.0.macos.universal.tar.gz"
-  version "1.2.0"
-  sha256 "fe56d9c30ea544eedebfe15945b6857ce90cc149ec37a354d4d08a2900a04170"
+  url "https://github.com/hoknie/vigil/releases/download/v1.3.0/vigil_1.3.0.macos.universal.tar.gz"
+  version "1.3.0"
+  sha256 "32630cda8d4266bc6015e821b4254268cee35fe5a58474fc7438524f7709ad75"
   license "Apache-2.0"
 
   depends_on :macos
